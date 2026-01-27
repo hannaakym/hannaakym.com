@@ -1,0 +1,18 @@
+[Recent]
+  other = 'Recent Notes'
+[Popular]
+  other = 'Notes'
+[error404]
+  other = 'なにもないようです　'
+[home]
+  other = 'ホームへ戻る'
+[nothing]
+  other = 'なにもないようです'
+[previous]
+  other = '前へ'
+[next]
+  other = '次へ'
+[tags]
+  other = 'タグ'
+[Notes]
+  other = '記事一覧'

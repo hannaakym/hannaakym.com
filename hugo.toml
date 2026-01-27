@@ -1,4 +1,4 @@
-baseURL = "https://subtle-chimera-cf3fe6.netlify.app/"
+baseURL = "/"
 defaultContentLanguage = "ja"
 enableEmoji = true
 enableRobotsTXT = true

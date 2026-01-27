@@ -13,5 +13,5 @@ type: page
 
 
 ## 2025
-- 哲学論文：[Critique to re-design](/work/redesign/)
+- 哲学論文：[Critique to redesign](/work/redesign/)
 

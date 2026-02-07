@@ -1,7 +1,7 @@
 ---
 title: "論文：カントに学ぶ制度再設計"
 date: 2026-01-24
-lastmod: 2026-01-24
+lastmod: 2026-02-07
 type: page
 ---
 
@@ -9,7 +9,7 @@ type: page
     - From critique to re-design: Kantian architectonics as a template of philosophical orientation
 
 - #### 論文保管場所
-    - Zenodoに保管しています。[こちら](https://zenodo.org/records/18390749)からどうぞ。
+    - [こちら](../data/Redesign_manuscript/)からどうぞ。
 
 - #### 要約
     - 本作は、カントを*批判哲学*ではなく*制度再設計のテンプレート*として読み替え、哲学が現代社会へ再び貢献するための思考の設計図を試作した論文ゴッコである。
@@ -112,3 +112,4 @@ type: page
 2. 18世紀後半の近代ドイツ語 → NotebookLMに読み込む ↔ しつこく聞く　※NotebookLMは、純粋に読みこんだテキストに基づいて答えを返してくれるので
 
 3. 思いついたことは、それはそれでチャッピーと盛り上がる
+

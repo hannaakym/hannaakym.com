@@ -9,7 +9,8 @@ type: page
     - From critique to re-design: Kantian architectonics as a template of philosophical orientation
 
 - #### 論文保管場所
-    - [こちら](../data/Redesign_manuscript/)からどうぞ。
+    - Zenodoに保管しています。[こちら](https://zenodo.org/records/18518372?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImE2MTI1YzkyLWFlMWMtNDNhNC04ZmNhLTU2MTllNWM1YmU3NiIsImRhdGEiOnt9LCJyYW5kb20iOiIxMGJmNTQ2ODI0YWFkNzg3MzU1ZGIxZWU4YTZiMWQyNiJ9.T1hRoj_ggf-QahBMg4TYD7yYrUQTChtAnjz81TQnbAB9l1yEZGmjLGE-G1SobCQaCfaN8v1Tyz9KxB1L7R3pfg)からどうぞ。   
+    ※学術汚染を極力避けるため、Restrictedモードでアップロードしています。こちらのリンクからのみ、アクセス可能としています。
 
 - #### 要約
     - 本作は、カントを*批判哲学*ではなく*制度再設計のテンプレート*として読み替え、哲学が現代社会へ再び貢献するための思考の設計図を試作した論文ゴッコである。
@@ -112,4 +113,5 @@ type: page
 2. 18世紀後半の近代ドイツ語 → NotebookLMに読み込む ↔ しつこく聞く　※NotebookLMは、純粋に読みこんだテキストに基づいて答えを返してくれるので
 
 3. 思いついたことは、それはそれでチャッピーと盛り上がる
+
 

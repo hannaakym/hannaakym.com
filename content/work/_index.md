@@ -8,7 +8,7 @@ type: page
 ---
 
 ## 2026
-- 翻訳：ウィルフレッド・オーウェン詩集　※制作中
+- 翻訳：[ウィルフレッド・オーウェン詩集](/work/owen/)　※制作中
 - サイト構築：[hannaakym.com](/work/hannaakym/)
 
 

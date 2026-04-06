@@ -12,6 +12,7 @@ title = "Hanna Akiyama"
 [params]
   dateFormat = "2006/01/02"
   togglePreviousAndNextButtons = true
+  fontSize = "1rem"
 
   avatarAltText = "avatar"
   avatarSize = "size-m"

@@ -47,7 +47,7 @@ Woke once the clays of a cold star.
 
 Are limbs, so dear-achieved, are sides  
 Full-nerved, still warm, too hard to stir?  
-手足はかけがえなく育ま(はぐく)れ  
+手足はかけがえなく育まれ  
 隅々にまで感覚が張り巡らされて  
 今なお温かいままなのに  
 動くことも叶わないのか？
@@ -65,7 +65,7 @@ To break earth's sleep at all?
 ![徒労](futility_sample.webp)
 
 Original poems by Wilfred Owen (Public Domain).  
-日本語訳：『奇妙な巡り会い ウィルフレッド・オーウェン選詩集』© 2026 by 秋山半名 is licensed under CC [BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
+日本語訳：『奇妙な巡り会い ウィルフレッド・オーウェン選詩集』© 2026 by 秋山半名 is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
 
 ---
 

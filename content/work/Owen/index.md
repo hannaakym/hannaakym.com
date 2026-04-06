@@ -62,7 +62,7 @@ To break earth's sleep at all?
 浅はかな陽射(ひざ)しを突き動かして  
 大地の眠りを破らんと労苦させたのは
 
-![徒労](futility_sample.webp)
+![ウィルフレッド・オーウェン Futility 徒労 テキスト画像](futility_sample.webp)
 
 Original poems by Wilfred Owen (Public Domain).  
 日本語訳：『奇妙な巡り会い ウィルフレッド・オーウェン選詩集』© 2026 by 秋山半名 is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
@@ -95,4 +95,4 @@ Original poems by Wilfred Owen (Public Domain).
 ✒️底本について  
 ✒️略年譜
 
-![書影](book_cover.webp)
+![ウィルフレッド・オーウェン選詩集 書影](book_cover.webp)

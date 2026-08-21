@@ -1,13 +1,16 @@
 ---
 title: "ウィルフレッド・オーウェン選詩集"
 date: 2026-03-28
-lastmod: 2026-04-06
+lastmod: 2026-08-21
 type: page
 ---
 
 >[!information]　**2026/04/19** 📍[ZINE FEST 福岡](https://note.com/bookcultureclub/n/ndad992be0cf3)
 
 >[!information]　**2026/05/04** 📍[文学フリマ東京42](https://c.bunfree.net/c/tokyo42/4F/%E3%81%88/40)
+
+
+>[!information]　**2026/10/04** 📍[文学フリマ福岡12](https://c.bunfree.net/c/fukuoka12/!/D/13)
 
 
 
@@ -24,7 +27,7 @@ Gently its touch awoke him once,
 かつてはこの者を起こしていた
 
 At home, whispering of fields half-sown.  
-故郷では　蒔(ま)きかけの畑について　囁きかけるように
+故郷では　蒔きかけの畑について　囁きかけるように
 
 Always it woke him, even in France,  
 Until this morning and this snow.  
@@ -33,7 +36,7 @@ Until this morning and this snow.
 
 If anything might rouse him now  
 The kind old sun will know.  
-今の彼を目覚ます術(すべ)があるとして  
+今の彼を目覚ますすべがあるとして  
 それを知っているのは  
 あの親切な年寄りの太陽だろう
 
@@ -42,7 +45,7 @@ Think how it wakes the seeds—
 あれが種でさえも揺り起こすことを
 
 Woke once the clays of a cold star.  
-在(あ)りし日には確かに起こしはしたのだ  
+在りし日には確かに起こしはしたのだ  
 冷たい星が抱えた土くれを
 
 Are limbs, so dear-achieved, are sides  
@@ -59,7 +62,7 @@ Was it for this the clay grew tall?
 —O what made fatuous sunbeams toil  
 To break earth's sleep at all?  
 ―ああ　一体なんだったのだろう？  
-浅はかな陽射(ひざ)しを突き動かして  
+浅はかな陽射しを突き動かして  
 大地の眠りを破らんと労苦させたのは
 
 ![ウィルフレッド・オーウェン Futility 徒労 テキスト画像](futility_sample.webp)

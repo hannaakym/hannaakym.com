@@ -8,10 +8,10 @@ type: page
 ---
 
 ## 2026
-- 翻訳：[ウィルフレッド・オーウェン詩集](/work/owen/)　※制作中
+- 翻訳：[ウィルフレッド・オーウェン詩集](/work/owen/)
 - サイト構築：[hannaakym.com](/work/hannaakym/)
 
 
 ## 2025
-- 哲学論文：[Critique to redesign](/work/redesign/)
+- 哲学論文（ゴッコ）：[Critique to redesign](/work/redesign/)
 
